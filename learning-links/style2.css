@@ -1,0 +1,22 @@
+#contactinfo:visited {
+  color: rgb(5, 5, 5);
+}
+ul {
+  background-color: aqua;
+}
+ul:hover {
+  background-color: lightblue;
+}
+
+.pink:link {
+  color: rgb(56, 240, 39);
+}
+.pink:visited {
+  color: rgb(5, 5, 5);
+}
+.visit:hover {
+  background-color: darkolivegreen;
+}
+.visit:active {
+  background-color: darkorange;
+}

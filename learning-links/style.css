@@ -1,0 +1,30 @@
+h1 {
+  background-color: #f09ae1;
+  color: #8f8585;
+}
+h2 {
+  background-color: #8d8a8a;
+  color: #770082;
+}
+#topic {
+  background-color: #ff69b4;
+}
+.sub1 {
+  background-color: #f3f313;
+}
+.sub1:hover {
+  color: tomato;
+}
+#sub2:hover {
+  background-color: crimson;
+}
+.visit:hover {
+  background-color: darkmagenta;
+}
+.visit:active {
+  background-color: hotpink;
+  color: #efefef;
+}
+.last {
+  background-color: aqua;
+}
