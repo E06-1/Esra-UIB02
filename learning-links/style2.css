@@ -5,9 +5,7 @@ ul {
   background-color: aqua;
 }
 ul:hover {
-  background-color: lightblue;
-}
-
+  background-color: lightblue; }
 .pink:link {
   color: rgb(56, 240, 39);
 }
